@@ -2,4 +2,4 @@
 
 ## this Application get up all mathematical calculations a simply
 
-##this project make to flutter
+this project make to flutter
